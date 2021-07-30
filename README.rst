@@ -69,6 +69,13 @@ or
     curl -Lo speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
     chmod +x speedtest-cli
 
+or
+::
+
+   curl -s https://raw.githubusercontent.com/andreasdeschka/speedtest-cli/master/speedtest.py | python -
+   
+
+
 Usage
 -----
 
